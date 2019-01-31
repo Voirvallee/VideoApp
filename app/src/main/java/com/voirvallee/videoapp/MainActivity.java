@@ -10,6 +10,8 @@ import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+
     VideoView videoView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
