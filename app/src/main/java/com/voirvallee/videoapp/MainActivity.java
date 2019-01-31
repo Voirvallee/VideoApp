@@ -10,7 +10,9 @@ import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity {
 
-    /**
+    // ini komen yg akan ditambahkan
+    //hi genks
+    //pakabar
 
     VideoView videoView;
     @Override
